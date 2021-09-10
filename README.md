@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/WanderWashington/Fundamentus/HEAD?filepath=fundamentus)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/WanderWashington/Fundamentus/main?filepath=fundamentus)
 
 # Fundamentus
 Scrapping fundamentus website with Python
